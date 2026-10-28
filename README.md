@@ -20,5 +20,6 @@ brew install --cask rwilgaard/tap/<name>
 | Name | Description |
 |------|-------------|
 | [xcv](https://github.com/rwilgaard/xcv) | CLI tool for inspecting, validating, and comparing X.509 certificate chains |
+| [thop](https://github.com/rwilgaard/thop) | Fuzzy tmux session manager with frecency ranking |
 
 Casks in `Casks/` are generated and updated automatically by [GoReleaser](https://goreleaser.com) on each release.
